@@ -1,2 +1,2 @@
 # Blackjack Game
-# Simple browser based blackjack game
+Simple browser based blackjack game
